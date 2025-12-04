@@ -1,0 +1,7 @@
+{
+  "name": "Clinica Pro Vida",
+  "description": "Uma plataforma moderna de saúde com agendamento online e atendimento especializado.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
